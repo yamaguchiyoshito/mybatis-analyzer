@@ -1,0 +1,4 @@
+# 必須（実行時に推奨されるパッケージ）
+sqlglot
+matplotlib
+graphviz
